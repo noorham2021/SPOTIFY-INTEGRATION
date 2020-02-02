@@ -1,0 +1,8 @@
+{
+"CLIENT_ID" : "981cc924693e48a9b8b2e3ee1a645c0",
+"CLIENT_SCERET" : "48e3eba95ca3426a9e2179edacb106dd",
+"AUTH_DOMAIN" : "http://localhost",
+"AUTH_PATH" : "/callback",
+"SCOPE" : "user-read-private app-remote-control playlist-read-private streaming user-read-playback-state user-modify-playback-state",
+"TOKEN" : "./token/json"
+}
